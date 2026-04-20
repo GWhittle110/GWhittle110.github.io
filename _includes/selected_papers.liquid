@@ -1,0 +1,8 @@
+<div class="publications">
+  {% bibliography --query @*[selected=true] %}
+</div>
+
+<h2><a href="{{ '/Publications/' | relative_url }}" style="color: inherit">selected preprints</a></h2>
+<div class="publications">
+  {% bibliography --query @*[selected_preprint=true] %}
+</div>
