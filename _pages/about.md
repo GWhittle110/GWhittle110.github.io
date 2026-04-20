@@ -6,26 +6,20 @@ social: true
 math: true
 profile:
   align: right
-  image: prof_pic.png
-  image_circular: false # crops the image to make it circular
+  image: prof_pic.jpeg
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p><a href="mailto:name.surname@university.edu">name.surname@university.edu</a></p>
+    <p><a href="mailto:george.whittle@reuben.ox.ac.uk">george.whittle@reuben.ox.ac.uk</a></p>
 ---
 
-I am an academic at the [University](https//www.universitywebsite.com). I'm currently in the process of building by website. 
+I am a PhD student at the [University of Oxford](https://www.ox.ac.uk), split between the 
+[Machine Learning Research Group](https://www.robots.ox.ac.uk/~parg/) and the 
+[Quantum Device Lab](https://eng.ox.ac.uk/quantumdevicelab).
 
 **My research interests lie in**
 
-- **Interest 1.**
-- **Interest 2.**
-- **Interest 3.**
+- **Neural Network Theory**
+- **Amortised Bayesian Inference**
+- **Quantum Device Control**
 
-If you’d like to chat, feel free to reach out via <a href="mailto:name.surname@university.edu">name.surname@university.edu</a>
-
-## Talks
-
-I'll give talks at the following venues:
-
-- Venue 1 : *Title 1*
-- Venue 2 : *Title 2*
-- Venue 3 : *Title 3*
+If you’d like to chat, feel free to reach out via <a href="mailto:george.whittle@reuben.ox.ac.uk">george.whittle@reuben.ox.ac.uk</a>

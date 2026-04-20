@@ -1,3 +1,11 @@
-"doe":
-  - firstname: ['John', "J."]
-    url: https://www.johndoe.com
+"ziomek":
+  - firstname: ['Juliusz', "J."]
+    url: https://juliuszziomek.github.io/
+
+"osborne":
+  - firsname: ['Michael', "M."]
+    url: https://www.robots.ox.ac.uk/~mosb/
+
+"galvis":
+  - firsname: ['Cristian', "C."]
+    url: https://cagalvisf.github.io/
