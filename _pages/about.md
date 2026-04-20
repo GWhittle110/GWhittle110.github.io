@@ -4,6 +4,7 @@ title: About
 permalink: /
 social: true
 math: true
+selected_papers: true
 profile:
   align: right
   image: prof_pic.jpeg
