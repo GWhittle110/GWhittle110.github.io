@@ -15,7 +15,7 @@ profile:
 
 I am a PhD student at the [University of Oxford](https://www.ox.ac.uk), split between the 
 [Machine Learning Research Group](https://www.robots.ox.ac.uk/~parg/) (supervised by Professor 
-[Michael A. Osborne](https://www.robots.ox.ac.uk/~mosb/)) and the
+[M A Osborne](https://www.robots.ox.ac.uk/~mosb/)) and the
 [Quantum Device Lab](https://eng.ox.ac.uk/quantumdevicelab) (supervised by Professor 
 [Natalia Ares](https://eng.ox.ac.uk/people/natalia-ares)).
 
@@ -32,7 +32,7 @@ Previously, I was an undergraduate student on the
 [MEng Engineering Science](https://eng.ox.ac.uk/study/undergraduate/your-degree) course, placing 3rd out of 141 students
 overall (2nd out of 171 in the first round of finals, 1st in Master's-year module Robust Optimisation and Control 
 Theory). I authored my Master's thesis on *LLM-Enhanced Bayesian Quadrature for Neural Ensemble Search* also under the 
-supervision of Professor Michael A Osborne, and previously researched *AI for Early Classification of Cardiovascular 
+supervision of Professor M A Osborne, and previously researched *AI for Early Classification of Cardiovascular 
 Conditions* under the supervision of Professor [Alison Noble](https://eng.ox.ac.uk/people/alison-noble), 
 Professor [Jens Rittscher](https://www.ndm.ox.ac.uk/team/jens-rittscher), Professor 
 [Vicente Grau](https://ibme.ox.ac.uk/person/vicente-grau-colomer/), and Professor 
