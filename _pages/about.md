@@ -15,7 +15,7 @@ profile:
 
 I am a PhD student at the [University of Oxford](https://www.ox.ac.uk), split between the 
 [Machine Learning Research Group](https://www.robots.ox.ac.uk/~parg/) (supervised by Professor 
-[M. A. Osborne](https://www.robots.ox.ac.uk/~mosb/)) and the
+[Maike A. Osborne](https://www.robots.ox.ac.uk/~mosb/)) and the
 [Quantum Device Lab](https://eng.ox.ac.uk/quantumdevicelab) (supervised by Professor 
 [Natalia Ares](https://eng.ox.ac.uk/people/natalia-ares)).
 
