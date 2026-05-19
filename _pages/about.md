@@ -26,7 +26,7 @@ I am a PhD student at the [University of Oxford](https://www.ox.ac.uk), split be
 - **Quantum Device Control**
 
 More specifically, my goal is to advance our understanding of Deep Learning models through a Bayesian lens, particularly
-underexplore but important regimes such as feature learning.
+underexplored but important regimes such as feature learning.
 
 Previously, I was an undergraduate student on the 
 [MEng Engineering Science](https://eng.ox.ac.uk/study/undergraduate/your-degree) course, placing 3rd out of 141 students
@@ -37,6 +37,6 @@ Conditions* under the supervision of Professor [Alison Noble](https://eng.ox.ac.
 Professor [Jens Rittscher](https://www.ndm.ox.ac.uk/team/jens-rittscher), Professor 
 [Vicente Grau](https://ibme.ox.ac.uk/person/vicente-grau-colomer/), and Professor 
 [Konstantinos Kamnitsas](https://ibme.ox.ac.uk/person/konstantinos-kamnitsas/), and *Neural Kalman Filters* under the 
-supervision of Professor [Konstantinos Gatis](https://kgatsis.github.io/).
+supervision of Professor [Konstantinos Gatsis](https://kgatsis.github.io/).
 
 If you’d like to chat, feel free to reach out via <a href="mailto:george.whittle@reuben.ox.ac.uk">george.whittle@reuben.ox.ac.uk</a>
