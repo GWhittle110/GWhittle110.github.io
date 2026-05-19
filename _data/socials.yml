@@ -12,6 +12,7 @@
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
 email: george.whittle@reuben.ox.ac.uk # your email address
+cv_pdf: assets/pdf/cv.pdf # path to a CV/resume PDF in the repo
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
 github_username: GWhittle110 # your GitHub user name
@@ -35,7 +36,7 @@ linkedin_username: gwhittle110 # your LinkedIn user name
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
 # rss_icon: true # comment this line to hide the RSS icon
-scholar_userid: 0000AAAAAaaaaa # your Google Scholar ID
+scholar_userid: cTqFrdgAAAAJ # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id

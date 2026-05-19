@@ -7,9 +7,9 @@ first_name: George
 middle_name:
 last_name: Whittle
 contact_note: ""
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
+description: PhD student at the University of Oxford researching neural network theory, amortised Bayesian inference, and quantum device control.
 footer_text: ""
-keywords: # add your own keywords or leave empty
+keywords: machine learning, deep learning theory, Bayesian inference, amortised inference, quantum device control, Gaussian processes, feature learning, University of Oxford, George Whittle
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🎲 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -38,9 +38,9 @@ max_width: 930px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
+serve_schema_org: true # Include Schema.org in the HTML head
+og_image: https://GWhittle110.github.io/assets/img/prof_pic.jpeg # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -75,6 +75,17 @@ exclude:
 keep_files:
   - CNAME
   - .nojekyll
+
+# Collections
+collections:
+  news:
+    defaults:
+      layout: post
+    output: false # no standalone `post` layout exists; news items are rendered inline only
+    permalink: /news/:path/
+
+# Maximum number of news items shown on the about page
+news_limit: 5
 
 # Plug-ins
 plugins:
@@ -216,6 +227,7 @@ enable_cronitor_analytics: false
 enable_pirsch_analytics: false
 enable_openpanel_analytics: false
 enable_google_verification: true
+google_site_verification: E9C75BhFmi_jshniTAOCusdsk_miupjnL7i_zmcBWm8
 enable_bing_verification: false
 enable_math: false
 enable_darkmode: true
