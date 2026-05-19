@@ -2,7 +2,7 @@
 layout: page
 permalink: /cv/
 title: CV
-description: Research and quantitative-finance experience, education, awards, and technical skills.
+description: Quantitative-research and applied experience, education, technical skills, and awards.
 nav: true
 nav_order: 3
 toc:
@@ -20,90 +20,76 @@ _styles: >
 
 ## Education
 
-**DPhil in Machine Learning** — University of Oxford
-<br><span class="cv-entry-date">2024 – present</span>
-- Doctoral research split between the [Machine Learning Research Group](https://www.robots.ox.ac.uk/~parg/) (Prof. Maike A. Osborne) and the [Quantum Device Lab](https://eng.ox.ac.uk/quantumdevicelab) (Prof. Natalia Ares).
-- Advancing the understanding of deep learning models through a Bayesian lens, with a focus on feature learning, amortised inference, and quantum device control.
+**DPhil in Engineering Science** — University of Oxford
+<br><span class="cv-entry-date">2024 – 2027 (expected)</span>
+- Doctoral research split between the [Machine Learning Research Group](https://www.robots.ox.ac.uk/~parg/) and the [Quantum Device Lab](https://eng.ox.ac.uk/quantumdevicelab), supervised by Prof. Maike A. Osborne (formerly publishing as Michael A. Osborne) and Prof. Natalia Ares.
+- Thesis: *Bayesian Perspectives on Machine Learning for Quantum Device Control*.
+- Concurrent research on amortised Bayesian inference for filtering and sequential applications, kernel and feature-learning theory in wide neural networks, and Gaussian process methods.
 
 **MEng Engineering Science** — University of Oxford
 <br><span class="cv-entry-date">2020 – 2024</span>
-- Ranked 3rd of 141 students overall (2nd of 171 in the first public examinations; 1st in the Master's-year module *Robust Optimisation and Control Theory*).
-- Specialised in machine learning, optimisation, stochastic control, and mathematical techniques.
+- First-Class Honours. Ranked 3rd of 141 overall; 2nd of 176 in Part A; 1st in the Master's-year module *Robust Optimisation and Control Theory*.
+- Specialised in machine learning, optimisation, stochastic control, and mathematical methods.
 
-## Quantitative Finance Experience
+## Quantitative Research Experience
 
-**Quant Research Intern** — Point72
-<br><span class="cv-entry-date">June – October 2025 (15 weeks)</span>
-- Systematic alpha research for a long/short equities pod, focusing on flow and regime analysis.
-- Developed high-Sharpe-ratio statistical-arbitrage strategies that remained performant when other signals in the book were in drawdown.
+**Incoming Quantitative Research Intern** — Jump Trading
+<br><span class="cv-entry-date">September – December 2026</span>
 
-**Quant Portfolio Manager** — Oxford Alpha Fund
-<br><span class="cv-entry-date">January – June 2024</span>
-- Led a team of five researching the use of Bayesian quadrature in robust systematic strategy-ensemble construction.
-- Now Head of Research on the Executive Committee, overseeing quant research projects and delivering bootcamp lectures.
+**Incoming Quantitative Research Intern, Fixed Income & Macro** — Citadel
+<br><span class="cv-entry-date">June – September 2026</span>
 
-**Quant Research Intern** — Gresham Quant
-<br><span class="cv-entry-date">Summer 2023 (10 weeks)</span>
-- Redesigned the portfolio-optimisation algorithm to enable liquidity-aware daily rebalancing while reducing the dedicated backtest time by 80%.
-- Conducted alpha research in systematic futures-roll execution, incorporating traders' insights for an estimated $12m/year net-at-risk target.
+**Quantitative Research Intern** — Point72
+<br><span class="cv-entry-date">June – October 2025</span>
+- Conducted systematic alpha research on hedge-fund positioning flows and regime identification across the US and European long/short equities universe, on a 15-week internship within a systematic equities pod.
+- Built high-Sharpe statistical-arbitrage signals explicitly constructed to be uncorrelated with — and additive during drawdowns of — existing book signals, improving portfolio risk-adjusted returns.
 
-## Research & Professional Experience
+**Quantitative Research Intern** — Gresham Investment Management (Gresham Quant)
+<br><span class="cv-entry-date">June – September 2023</span>
+- Redesigned the portfolio-optimisation engine to enable liquidity-aware daily rebalancing, improving risk-adjusted returns while also reducing trading costs in capacity-constrained markets and per-step backtest runtime by ~80%.
+- Conducted alpha research on systematic futures-roll execution, incorporating discretionary trader insight and projected to result in at-risk-target gains of ~$12M/year.
+
+**Quantitative Portfolio Manager → Head of Research** — Oxford Alpha Fund
+<br><span class="cv-entry-date">January 2024 – December 2025</span>
+- Student-run multi-strategy fund: led a 5-person research team applying Bayesian quadrature to robust systematic strategy-ensemble construction, and deployed the resulting allocator to the fund's live multi-strategy book.
+- Subsequently, as Head of Research (Executive Committee), oversaw all quantitative projects and delivered the bootcamp lecture series on portfolio optimisation and machine learning.
+
+## Other Professional Experience
+
+**Retainer-Fee Lecturer in Engineering Science** — Somerville College, University of Oxford
+<br><span class="cv-entry-date">October 2024 – present</span>
+- Competitively appointed teaching post — a junior academic faculty position — delivering undergraduate tutorials in probability & statistics, stochastic processes, control theory, communications theory, and electronics.
+- Also run inter-college classes on control theory, communications theory, and computer engineering.
 
 **Machine Learning Scientist (Defence)** — Mind Foundry
 <br><span class="cv-entry-date">August 2024 – present</span>
-- Part-time collaboration alongside my DPhil, researching transformer-based online Bayesian filtering.
-- Previously a Machine Learning Scientist intern researching high-dimensional non-convex multi-objective optimisation.
+- Developed transformer-based online Bayesian filtering for real-time sensor fusion; this work fed directly into the first-authored ICML 2026 spotlight on amortised Bayesian inference (*Distribution Transformers*).
+- Part-time alongside my DPhil; currently extending the method to multi-target sensor-fusion and tracking problems.
+- Earlier work during a full-time internship on high-dimensional non-convex multi-objective optimisation for sensor and resource allocation.
 
 **Optimisation Consultant** — Lexington Medical
-<br><span class="cv-entry-date">February 2024 – present</span>
-- Designed and implemented statistical optimisation software for probabilistic demand modelling and forecasting, and for optimising the global inventory and shipping configuration of finished goods across a third-party-logistics network.
-
-**MEng Master's Project** — University of Oxford
-<br><span class="cv-entry-date">October 2023 – June 2024</span>
-- Thesis: *LLM-Enhanced Bayesian Quadrature for Neural Ensemble Search*, supervised by Prof. Maike A. Osborne.
-- Used LLMs to analyse the source code of candidate models and produce a common coordinate space, over which a Gaussian-process prior can be defined for use in Bayesian quadrature — yielding ensemble weights that efficiently balance model performance and diversity.
-- Outperformed state-of-the-art approaches on benchmarks and handled tasks current approaches cannot tackle.
-
-**EUROP Research Intern** — University of Oxford
-<br><span class="cv-entry-date">Summer 2022 (8 weeks)</span>
-- Control group, Department of Engineering Science.
-- Researched Neural Kalman Filters, developing a novel training algorithm based on trajectory simulation.
-
-## Teaching
-
-**Lecturer (Senior Common Room)** — Somerville College, University of Oxford
-<br><span class="cv-entry-date">October 2024 – present</span>
-- First- and second-year electronics, control theory, and communications theory.
-- Inter-college classes on control theory, communications theory, and algorithms and data structures.
-
-**Tutor**
-<br><span class="cv-entry-date">2023 – present</span>
-- Tutored an MEng Engineering Science undergraduate in first- to fourth-year mathematics (2023 – present).
-- Tutored Oxbridge engineering-admissions candidates with Swift Education (2024 – present).
-
-## Awards & Honours
-
-- **Edgell Sheppee Prize**, Department of Engineering Science — for excellent performance.
-- **Principal's Prize** and **Mary Somerville Prize**, Somerville College — for fourth-year examination performance.
-- **Academic Scholar**, Somerville College — for first-, second-, and third-year examination performance.
-- **Music Scholar**, Somerville College (2020 – 2024).
-- Top gold in the **UK Physics Olympiad** (top 100 nationally); reserve for the British team at the (cancelled) 2020 International Physics Olympiad (top 6 nationally).
-- Golds in the **UK Chemistry Olympiad**, the **Cambridge Chemistry Challenge**, and seven consecutive **UKMT Maths Challenges**.
+<br><span class="cv-entry-date">February 2024 – April 2025</span>
+- Designed and shipped production optimisation software combining probabilistic demand forecasting with end-to-end optimisation of a global finished-goods-to-3PL inventory and shipping network.
 
 ## Technical Skills
 
-- **Languages:** Python (12 years, across many paradigms), with recent experience in MATLAB and C++.
-- **Libraries:** NumPy, SciPy, Pandas, and PyTorch.
-- **Software engineering:** formally trained in software engineering, object-oriented programming, algorithms and data structures, and design patterns; experienced with Git and SQL, and with developing large, scalable software professionally.
-- **Numerical methods:** authored Python libraries for pseudo-spectral differentiators, implicit integrators, and probabilistic numerical methods including Bayesian optimisation and quadrature.
-- Received an internship offer for a Quant Developer role at Beacon Platform.
+- **Programming:** Python (12+ years), C++, MATLAB, SQL; object-oriented design, design patterns, Git, productionised software.
+- **Quant methods:** systematic alpha research, statistical arbitrage, portfolio optimisation & signal fusion, backtesting & analytics; convex & non-convex optimisation; stochastic systems & filtering.
+- **ML & numerics:** PyTorch, NumPy, SciPy, Pandas; Bayesian inference & filtering (amortised / PFN-style, variational, MCMC), Gaussian processes, probabilistic numerics, large neural networks, optimal control.
 
-## Service & Activities
+## Honours & Awards
 
-- **Head of Research**, Executive Committee, Oxford Alpha Fund (October 2024 – present).
-- **VP of Sponsors & Events**, Oxford University Engineering Society (October 2023 – May 2024).
-- **Music:** working towards the LTCL diploma in piano; Grade 8 trumpet; former First Trumpet of the Oxford Millennium Orchestra and various college and inter-college ensembles.
+- **EPSRC Scholarship**, Department of Engineering Science, University of Oxford — full DPhil funding (2024).
+- **Edgell Sheppee Prize**, Department of Engineering Science, University of Oxford — general performance (2024).
+- **Principal's & Mary Somerville Prizes**, Somerville College — performance in Part C examinations (2024).
+- **Academic Scholar**, Somerville College, University of Oxford (2020 – 24).
+- **Reserve, British Team**, International Physics Olympiad (cancelled) — top 6 nationally (2020).
+- **Top Gold**, UK Physics Olympiad — top 100 nationally (2020).
+- **Gold**, UK Chemistry Olympiad, Cambridge Chemistry Challenge & seven consecutive UKMT challenges (2013 – 20).
 
-## Publications
+## Leadership & Activities
 
-See the [Publications]({{ '/Publications/' | relative_url }}) page, or my [Google Scholar profile](https://scholar.google.com/citations?user=cTqFrdgAAAAJ) for the most up-to-date list.
+**VP of Sponsors & Events** — Oxford University Engineering Society
+<br><span class="cv-entry-date">2023 – 2024</span>
+
+**Music** — Grade 8 Trumpet; LTCL Piano Diploma (in progress); former First Trumpet at Oxford Millennium Orchestra.
