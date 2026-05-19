@@ -1,0 +1,28 @@
+<!-- News items -->
+<div class="news">
+  {% if site.news != blank %}
+    {% assign news_size = site.news | size %}
+    {% if include.limit and site.news_limit %}
+      {% assign news_max = site.news_limit %}
+    {% else %}
+      {% assign news_max = news_size %}
+    {% endif %}
+    <table class="table table-sm table-borderless">
+      {% assign news = site.news | reverse %}
+      {% for item in news limit: news_max %}
+        <tr>
+          <th scope="row">{{ item.date | date: '%b %-d, %Y' }}</th>
+          <td>
+            {% if item.inline %}
+              {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+            {% else %}
+              <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+            {% endif %}
+          </td>
+        </tr>
+      {% endfor %}
+    </table>
+  {% else %}
+    <p>No news so far...</p>
+  {% endif %}
+</div>
